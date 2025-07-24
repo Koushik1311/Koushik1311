@@ -17,7 +17,7 @@
 > Digital journaling app with mood tracking and time capsule reflections  
 > Built with: Next.js, Supabase, Tailwind, shadcn/ui  
 > 🥈 #8 on Product Hunt  
-> [🔗 Live](https://diarist.life) · [💻 Code](https://github.com/Koushik1311/Diarist)
+> [🔗 Live](https://diarist.vercel.app/) · [💻 Code](https://github.com/Koushik1311/Diarist)
 
 ---
 
